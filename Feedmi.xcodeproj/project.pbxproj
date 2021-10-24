@@ -11,6 +11,17 @@
 		AC50C12527249B3D007F7CBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC50C12427249B3D007F7CBD /* ContentView.swift */; };
 		AC50C12727249B42007F7CBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC50C12627249B42007F7CBD /* Assets.xcassets */; };
 		AC50C12A27249B42007F7CBD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC50C12927249B42007F7CBD /* Preview Assets.xcassets */; };
+		AC50C13127249DD3007F7CBD /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC50C13027249DD3007F7CBD /* Launch Screen.storyboard */; };
+		AC50C1352724A1A6007F7CBD /* OnboardingData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC50C1342724A1A6007F7CBD /* OnboardingData.swift */; };
+		AC50C1382724A1EF007F7CBD /* OnboardingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC50C1372724A1EF007F7CBD /* OnboardingModel.swift */; };
+		AC50C13B2724A235007F7CBD /* OnboardingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC50C13A2724A235007F7CBD /* OnboardingCardView.swift */; };
+		AC50C13D2724A26C007F7CBD /* OnboardingButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC50C13C2724A26C007F7CBD /* OnboardingButtonView.swift */; };
+		AC50C1402724A4FC007F7CBD /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC50C13F2724A4FC007F7CBD /* OnboardingView.swift */; };
+		AC6F68342725DF5A00257BE3 /* BalooChettan2-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC6F68332725DF5A00257BE3 /* BalooChettan2-Bold.ttf */; };
+		AC6F68392725E19300257BE3 /* Mulish-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC6F68352725E19200257BE3 /* Mulish-Regular.ttf */; };
+		AC6F683A2725E19300257BE3 /* Mulish-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC6F68362725E19200257BE3 /* Mulish-Bold.ttf */; };
+		AC6F683B2725E19300257BE3 /* Mulish-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC6F68372725E19200257BE3 /* Mulish-Medium.ttf */; };
+		AC6F683C2725E19300257BE3 /* Mulish-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC6F68382725E19300257BE3 /* Mulish-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,18 @@
 		AC50C12427249B3D007F7CBD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AC50C12627249B42007F7CBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC50C12927249B42007F7CBD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AC50C13027249DD3007F7CBD /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Launch Screen.storyboard"; path = "../../Launch Screen.storyboard"; sourceTree = "<group>"; };
+		AC50C1342724A1A6007F7CBD /* OnboardingData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingData.swift; sourceTree = "<group>"; };
+		AC50C1372724A1EF007F7CBD /* OnboardingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingModel.swift; sourceTree = "<group>"; };
+		AC50C13A2724A235007F7CBD /* OnboardingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingCardView.swift; sourceTree = "<group>"; };
+		AC50C13C2724A26C007F7CBD /* OnboardingButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingButtonView.swift; sourceTree = "<group>"; };
+		AC50C13F2724A4FC007F7CBD /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		AC6F68322725DB6B00257BE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		AC6F68332725DF5A00257BE3 /* BalooChettan2-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BalooChettan2-Bold.ttf"; sourceTree = "<group>"; };
+		AC6F68352725E19200257BE3 /* Mulish-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Regular.ttf"; sourceTree = "<group>"; };
+		AC6F68362725E19200257BE3 /* Mulish-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Bold.ttf"; sourceTree = "<group>"; };
+		AC6F68372725E19200257BE3 /* Mulish-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-Medium.ttf"; sourceTree = "<group>"; };
+		AC6F68382725E19300257BE3 /* Mulish-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mulish-SemiBold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +58,7 @@
 		AC50C11627249B3D007F7CBD = {
 			isa = PBXGroup;
 			children = (
+				AC50C13027249DD3007F7CBD /* Launch Screen.storyboard */,
 				AC50C12127249B3D007F7CBD /* Feedmi */,
 				AC50C12027249B3D007F7CBD /* Products */,
 			);
@@ -51,8 +75,12 @@
 		AC50C12127249B3D007F7CBD /* Feedmi */ = {
 			isa = PBXGroup;
 			children = (
-				AC50C12227249B3D007F7CBD /* FeedmiApp.swift */,
-				AC50C12427249B3D007F7CBD /* ContentView.swift */,
+				AC6F68322725DB6B00257BE3 /* Info.plist */,
+				AC6F682D2725DB0A00257BE3 /* Fonts */,
+				AC50C13E2724A276007F7CBD /* App */,
+				AC50C1392724A1FA007F7CBD /* Components */,
+				AC50C1362724A1D4007F7CBD /* Model */,
+				AC50C1332724A160007F7CBD /* Data */,
 				AC50C12627249B42007F7CBD /* Assets.xcassets */,
 				AC50C12827249B42007F7CBD /* Preview Content */,
 			);
@@ -65,6 +93,53 @@
 				AC50C12927249B42007F7CBD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AC50C1332724A160007F7CBD /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				AC50C1342724A1A6007F7CBD /* OnboardingData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		AC50C1362724A1D4007F7CBD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AC50C1372724A1EF007F7CBD /* OnboardingModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AC50C1392724A1FA007F7CBD /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				AC50C13A2724A235007F7CBD /* OnboardingCardView.swift */,
+				AC50C13C2724A26C007F7CBD /* OnboardingButtonView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		AC50C13E2724A276007F7CBD /* App */ = {
+			isa = PBXGroup;
+			children = (
+				AC50C12227249B3D007F7CBD /* FeedmiApp.swift */,
+				AC50C12427249B3D007F7CBD /* ContentView.swift */,
+				AC50C13F2724A4FC007F7CBD /* OnboardingView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		AC6F682D2725DB0A00257BE3 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				AC6F68362725E19200257BE3 /* Mulish-Bold.ttf */,
+				AC6F68372725E19200257BE3 /* Mulish-Medium.ttf */,
+				AC6F68352725E19200257BE3 /* Mulish-Regular.ttf */,
+				AC6F68382725E19300257BE3 /* Mulish-SemiBold.ttf */,
+				AC6F68332725DF5A00257BE3 /* BalooChettan2-Bold.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +200,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC50C13127249DD3007F7CBD /* Launch Screen.storyboard in Resources */,
+				AC6F68342725DF5A00257BE3 /* BalooChettan2-Bold.ttf in Resources */,
 				AC50C12A27249B42007F7CBD /* Preview Assets.xcassets in Resources */,
+				AC6F683A2725E19300257BE3 /* Mulish-Bold.ttf in Resources */,
 				AC50C12727249B42007F7CBD /* Assets.xcassets in Resources */,
+				AC6F683C2725E19300257BE3 /* Mulish-SemiBold.ttf in Resources */,
+				AC6F68392725E19300257BE3 /* Mulish-Regular.ttf in Resources */,
+				AC6F683B2725E19300257BE3 /* Mulish-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +218,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC50C13B2724A235007F7CBD /* OnboardingCardView.swift in Sources */,
+				AC50C1382724A1EF007F7CBD /* OnboardingModel.swift in Sources */,
+				AC50C1352724A1A6007F7CBD /* OnboardingData.swift in Sources */,
 				AC50C12527249B3D007F7CBD /* ContentView.swift in Sources */,
 				AC50C12327249B3D007F7CBD /* FeedmiApp.swift in Sources */,
+				AC50C13D2724A26C007F7CBD /* OnboardingButtonView.swift in Sources */,
+				AC50C1402724A4FC007F7CBD /* OnboardingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,12 +358,14 @@
 				DEVELOPMENT_TEAM = 9N5E63JB8B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Feedmi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,7 +375,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -302,12 +390,14 @@
 				DEVELOPMENT_TEAM = 9N5E63JB8B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Feedmi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -317,7 +407,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
